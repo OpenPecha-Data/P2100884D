@@ -11,3 +11,8 @@ source_metadata:
       parent: Mahākāla
 created_at: '2022-03-01T01:09:54.708881'
 last_modified_at: '2022-03-01T01:09:54.708884'
+statistics:
+  total_words: 682
+  total_non_words: 91
+quality:
+  non_words_ratio: 0.13
